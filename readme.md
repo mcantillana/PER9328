@@ -3,7 +3,7 @@
 Listado de actividades para bootstrap4
 
 ## Navbar
-* [Actividad 1](actividad1.md): uso de navbar
+* [Actividad 1](actividad1.md): uso de navbar (solución: [menu.html](https://pastebin.com/6SCJFdnh) - [style.css](https://pastebin.com/3UyuAU1t)
 * [Actividad 2](actividad2.md): Construcción de landing
 
 ## Utilidades responsive
